@@ -1,1 +1,4 @@
 Nitrogen_Fluoride
+フッ化窒素
+
+stdio
